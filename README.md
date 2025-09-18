@@ -24,6 +24,13 @@
 
 ## Sobre 
 
+## Exercício 1 - Path with Maximun Probability
+### Descrição
+Este problema envolve encontrar o caminho com a maior probabilidade de sucesso em um grafo não dirigido e ponderado, onde cada aresta tem uma probabilidade associada à sua travessia bem-sucedida. Dados um número de nós, uma lista de arestas e as probabilidades de sucesso para cada aresta, o objetivo é determinar a maior probabilidade de ir do nó inicial até o nó final. O problema pode ser resolvido utilizando uma variação do algoritmo de Dijkstra, adaptado para maximizar as probabilidades de sucesso ao invés de minimizar distâncias, explorando sempre o caminho com a maior probabilidade até alcançar o destino ou concluir que não há caminho possível.
+
+- Link: https://leetcode.com/problems/path-with-maximum-probability/description/
+- Solução: [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_D12/blob/main/PathMaxProb.py)
+
 
 ## Como rodar o projeto
 

@@ -43,8 +43,14 @@ Este problema envolve identificar as arestas críticas e pseudo-críticas em uma
 - Solução: [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_D12/blob/main/FindCritical.cpp)
 
 
-## Como rodar o projeto
+## Exercicio 3 - Network Delay Time
+O objetivo deste exercício consiste em determinar o tempo mínimo necessário para que um sinal, emitido a partir de um nó de origem, se propague e atinja todos os demais nós de uma rede. A rede é modelada como um grafo direcionado e ponderado, onde os nós representam os pontos de conexão (computadores) e as arestas representam as conexões de rede, e seus pesos indicam o tempo de viagem do sinal.
 
+![](Documentos/screenshots/image.png)
+
+- Dificuldade: Médio
+- Link: https://leetcode.com/problems/network-delay-time/description/
+- Solução: [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_D12/blob/main/NetworkDelay.py)
 
 ## Apresentação 
 [Vídeo]()

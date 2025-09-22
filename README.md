@@ -63,7 +63,7 @@ O objetivo deste exercício é analisar a conectividade de um grafo implícito p
 - Solução: [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_D12/blob/main/MinimumNumber.py)
 
 ## Apresentação 
-[Vídeo]()
+[Vídeo](https://youtu.be/j7zIaWS_oB4)
 
  
  

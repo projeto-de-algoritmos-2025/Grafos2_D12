@@ -52,6 +52,16 @@ O objetivo deste exercício consiste em determinar o tempo mínimo necessário p
 - Link: https://leetcode.com/problems/network-delay-time/description/
 - Solução: [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_D12/blob/main/NetworkDelay.py)
 
+## Exercicio 4 - Minimum Number of Days to Disconnect Island
+
+O objetivo deste exercício é analisar a conectividade de um grafo implícito para determinar o número mínimo de vértices a serem removidos para aumentar seu número de componentes conectados. A rede é modelada como um grafo não direcionado, onde as células de terra são os vértices e as adjacências são as arestas.
+
+![](Documentos/screenshots/image2.png)
+
+- Dificuldade: Difício
+- Link: https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/
+- Solução: [Código](https://github.com/projeto-de-algoritmos-2025/Grafos2_D12/blob/main/MinimumNumber.py)
+
 ## Apresentação 
 [Vídeo]()
 
